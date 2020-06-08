@@ -2,6 +2,9 @@
 # Created by https://www.gitignore.io/api/git,c++,cmake,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=git,c++,cmake,visualstudiocode
 
+### Build Directory ###
+build/
+
 ### C++ ###
 # Prerequisites
 *.d
